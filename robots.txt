@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ruquuzaelo.jasonspringer.me/sitemap.xml
